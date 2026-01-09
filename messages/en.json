@@ -1,0 +1,98 @@
+{
+  "common": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "services": "Services",
+    "contact": "Contact Us",
+    "language": "Language",
+    "signUp": "Sign Up",
+    "getStarted": "get started for free",
+    "readMore": "Read more",
+    "getUpdates": "Get Updates"
+  },
+  "home": {
+    "title": "Welcome to Our App",
+    "description": "Start editing files to customize your site",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "metadata": {
+    "title": "Auto CMS",
+    "description": "Automatic Content Management System"
+  },
+  "navbar": {
+    "home": "Home",
+    "products": "Products",
+    "stories": "Stories",
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "exploreTools": "Explore our AI tools",
+    "textToSlides": "Text to Slides",
+    "textToSlidesDesc": "Convert text to slides",
+    "imageToSlides": "Image to Slides",
+    "imageToSlidesDesc": "Convert images to slides",
+    "videoToSlides": "Video to Slides",
+    "videoToSlidesDesc": "Convert videos to slides",
+    "audioToSlides": "Audio to Slides",
+    "audioToSlidesDesc": "Convert audio to slides",
+    "ideasToSlides": "Ideas to Slides",
+    "ideasToSlidesDesc": "Generate slides from ideas"
+  },
+  "hero": {
+    "joinCommunity": "Join community of 1m+ founders",
+    "title": "Build, Launch & Scale with",
+    "brand": "PrebuiltUI",
+    "subtitle": "A high-performance, serverless Postgres database that helps you ship fast and scale without limits.",
+    "trustedBy": "Trusting by leading brands, including —"
+  },
+  "whatWeDo": {
+    "title": "What we do?",
+    "joinCommunity": "Join our developer community",
+    "paragraph1": "PrebuiltUI helps you build faster by transforming your design vision into fully functional, production-ready UI components.",
+    "paragraph2": "Whether you're launching a SaaS app, landing page, or dashboard, our collection of Tailwind CSS components is crafted to boost your development speed and improve user experience.",
+    "paragraph3": "From UI design systems to automation-ready layouts, PrebuiltUI empowers you to build beautifully and scale effortlessly."
+  },
+  "creations": {
+    "title": "Our Latest Creations",
+    "subtitle": "A visual collection of our most recent works - each piece crafted with intention, emotion, and style.",
+    "item1Title": "Autumn Leaf Harmony",
+    "item1Desc": "Earthy seasonal tones with organic patterns, bringing coziness and natural charm into interiors.",
+    "item2Title": "Winter Frost Calm",
+    "item2Desc": "Crisp whites with frosted details, enhancing minimalist and contemporary spaces with sophistication.",
+    "item3Title": "Spring Canvas",
+    "item3Desc": "Pastel floral tones that uplift interiors with beauty, freshness, and vibrant seasonal energy."
+  },
+  "testimonials": {
+    "title": "Our Testimonials",
+    "subtitle": "Hear from our satisfied customers about the benefits of using SlideX. We love hearing from our customers.",
+    "review1": "Super clean and easy to use. These Tailwind + React components saved me hours of dev time and countless lines of extra code!",
+    "review2": "The design quality is top-notch. Perfect balance between simplicity and style. Highly recommend for any creative developer!",
+    "review3": "Absolutely love the reusability of these components. My workflow feels 10x faster now with cleaner and more consistent layouts.",
+    "review4": "Clean, elegant, and efficient. These components are a dream for any modern web developer who values beautiful code.",
+    "review5": "I've tried dozens of UI kits, but this one just feels right. Everything works seamlessly and looks incredibly polished.",
+    "review6": "Brilliantly structured components with clean, modern styling. Makes development a joy and design updates super quick.",
+    "founderCeo": "Founder & CEO"
+  },
+  "faq": {
+    "title": "FAQ's",
+    "subtitle": "Looking for answers to your frequently asked questions? Check out our FAQ's section below to find.",
+    "q1": "Do I need coding or design experience to use PrebuiltUI?",
+    "a1": "Basic coding knowledge (HTML/CSS, Tailwind) helps, but advanced design skills aren't required. You can use components as-is or customize them.",
+    "q2": "What is PrebuiltUI and how does it help developers and designers?",
+    "a2": "PrebuiltUI provides ready-to-use, customizable UI components and templates, saving time for developers and designers.",
+    "q3": "Can I use PrebuiltUI components in my existing project?",
+    "a3": "Yes, components can be integrated into HTML, React, Next.js, Vue, and other projects using Tailwind CSS.",
+    "q4": "How customizable are the generated components?",
+    "a4": "Components are highly customizable with Tailwind utility classes, theming, and structural adjustments.",
+    "q5": "Does PrebuiltUI support team collaboration?",
+    "a5": "There's no clear documentation on built-in collaboration features. Check their support for team options.",
+    "q6": "Can I try PrebuiltUI before purchasing a plan?",
+    "a6": "Yes, you can try PrebuiltUI with full access to features."
+  },
+  "newsletter": {
+    "title": "Join Newsletter",
+    "subtitle": "A visual collection of our most recent works - each piece crafted with intention, emotion and style.",
+    "placeholder": "Enter your email address"
+  }
+}
